@@ -1,0 +1,104 @@
+*{
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	
+}
+/* Typografie  */
+.large {
+  margin-top: 28px;
+  margin-bottom: 28px;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing: -0.03px;
+  word-spacing: -0.08px;
+}
+
+.h1-regular {
+  margin-top: 21px;
+  margin-bottom: 21px;
+  font-family: Raleway, sans-serif;
+  font-size: 32px;
+  line-height: 18px;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+}
+
+.h2-regular {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  font-family: Raleway, sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.8px;
+}
+.h2-regular.uppercase {
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+}
+.h3-regular {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.h3-regular.uppercase {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.h3-medium {
+  margin-top: 17px;
+  margin-bottom: 17px;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+}
+.h4-medium {
+  background-color: #999;
+  font-family: Raleway, sans-serif;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+.h4-medium-invert {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #999;
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+}
+
+.h5-regular {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+}
+
+.h5-regular.uppercase {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+.paragraph {
+  font-family: Raleway, sans-serif;
+  color: #505050;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.8px;
+}
+
+.paragraph.small {
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 1px;
+}
+
+
+
