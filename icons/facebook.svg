@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/sm-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbol_page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/sm-facebook">
+            <g id="icon/sm-facebook">
+                <g id="facebook" transform="translate(10.000000, 8.000000)" fill="#505050">
+                    <g id="Arrow_1_">
+                        <path d="M8.40314445,7.8624 L8.4079561,5.7936 C8.4079561,4.7136 8.51381239,4.1376 10.0631634,4.1376 L12.1369843,4.1376 L12.1369843,0 L8.81694629,0 C4.82808906,0 3.42308747,2.0064 3.42308747,5.3808 L3.42308747,7.8624 L0.93546481,7.8624 L0.93546481,12 L3.42308747,12 L3.42308747,24 L8.39833281,24 L8.39833281,12 L11.7183708,12 L12.1610425,7.8624 L8.40314445,7.8624 L8.40314445,7.8624 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <g id="icons/socialMedia/Linked-in" stroke="#505050">
+                    <g id="Group-5">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

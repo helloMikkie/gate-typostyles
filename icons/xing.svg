@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/sm-xing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbol_page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/sm-xing" transform="translate(1.000000, 1.000000)">
+            <g id="icon/sm-xing">
+                <g id="Page-1" transform="translate(5.000000, 3.000000)" fill="#505050">
+                    <polygon id="Fill-1" points="1.48524607 5 4.91706283 10.1445571 0 18.2572694 4.93717277 18.2572694 9.83424607 10.1050228 6.62303665 5"></polygon>
+                    <polygon id="Fill-2" points="18.0715131 0 9 15.3547215 15.1012618 26 20.3594712 26 14.1780105 15.236 22.8080681 0"></polygon>
+                </g>
+                <g id="icons/socialMedia/Linked-in" stroke="#505050">
+                    <g id="Group-5">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
